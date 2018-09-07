@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: 184.73.41.135
   remote_user: babu
   become: yes
   roles:
