@@ -1,0 +1,8 @@
+---
+# vars file for dharma.lamp
+ root_db_password: password123
+ db_user_name: babu
+ db_user_pass: babu@7646
+ db_name: test
+ db_host: 184.73.41.135
+  
