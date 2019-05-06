@@ -1,5 +1,5 @@
 ---
-# vars file for dharma.lamp
+# vars file for GMKBabu.lamp
  root_db_password: password123
  db_user_name: babu
  db_user_pass: babu@7646
